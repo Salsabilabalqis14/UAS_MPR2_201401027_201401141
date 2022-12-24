@@ -18,3 +18,7 @@
 ### Tampilan FavoriteActivity
 > <img width="960" alt="5" src="https://user-images.githubusercontent.com/86075019/209433561-ad5356f8-fe51-4f9f-9979-b09c9521bd14.png">
 
+### Screenshot Firebase Realtime Database
+> <img width="960" alt="6" src="https://user-images.githubusercontent.com/86075019/209433646-fa30a2bc-a96f-4fc6-834d-1ec28aa681aa.png">
+
+
