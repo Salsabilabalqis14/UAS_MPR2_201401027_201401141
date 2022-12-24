@@ -1,6 +1,6 @@
-# MPR2_UAS_201401027
-### Salsabila Balqis
-### 201401027
+# MPR2_UAS_201401027_201401141
+### Salsabila Balqis & Lidya Gabriella Tarigan
+### 201401027 201401141
 ### MPR 2
 
 ### Tampilan MainActivity
